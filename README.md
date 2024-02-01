@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=7000&pause=1000&random=false&width=435&lines=Oii!+Eu+sou+a+Myle.)](https://git.io/typing-svg)
 
-- 🎂 23 anos
+- 🎂 24 anos
 - 🧠 Bacharel em Psicologia
 - 🔍 Futura Dev FullStack
 - 📍 Vivendo em São Paulo
