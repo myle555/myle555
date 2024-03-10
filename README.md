@@ -5,7 +5,7 @@
 - 🎂 24 anos
 - 🧠 Bacharel em Psicologia
 - 🔍 Futura Dev FullStack
-- 📍 Vivendo em São Paulo
+- 📍 Vivendo em São Paulo/Curitiba
 - ⚡ Fun fact: Viciada em Counter-Strike
 - 👧🏼 Ela/dela
 
